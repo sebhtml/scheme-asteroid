@@ -1,0 +1,31 @@
+AUTHORS
+
+;Sébastien Boisvert <Sebastien.Boisvert@USherbrooke.ca>  
+;Marcel Tawé <Marcel.Tawe@USherbrooke.ca>         
+;Pier-Luc Desgagné <Pier-Luc.Desgagne@USherbrooke.ca>  
+;Gaoussou Traoré <Gaoussou.Traore@USherbrooke.ca>
+
+NEEDS:
+
+PLT SCHEME v360
+
+http://blog.scheme.dk/2006/11/plt-scheme-version-360.html
+
+
+Nom: Jeu d'avions
+
+Clavier:
+
+	haut           réacteur
+	droit          tourner à droite
+	gauche         tourner à gauche
+	espace         laser
+	m              missile
+
+But: survivre.. (tuer les ennemis..)
+
+Up: booster
+Right: turn right
+Left: turn left
+Space: Rifle
+m: Missile

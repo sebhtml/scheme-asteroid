@@ -1,0 +1,1 @@
+"C:\Program Files\PLT\MrEd.exe" -r main.scm
