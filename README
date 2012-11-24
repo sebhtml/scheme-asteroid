@@ -11,6 +11,13 @@ PLT SCHEME v360
 
 http://blog.scheme.dk/2006/11/plt-scheme-version-360.html
 
+http://download.plt-scheme.org/bundles/360/plt/plt-360-src-unix.tgz
+libXft libXft-devel
+
+add /lib64/libfontconfig.so.1 to linker command
+
+
+
 
 Nom: Jeu d'avions
 
